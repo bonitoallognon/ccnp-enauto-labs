@@ -23,4 +23,6 @@ Formation *GIT*
 <html></html>
 '''
 
-[Lien](https://github.com/bonitoallognon/ccnp-enauto-labs.git)
+[git enauto repository](https://github.com/bonitoallognon/ccnp-enauto-labs.git);
+
+[linkedin profile](https://www.linkedin.com/in/bonito-allognon-3836a4147/);
