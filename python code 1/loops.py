@@ -23,7 +23,7 @@ for i in range(5):
 direction=""
 while direction != "q" :
 
-    direction = input("Do you want to go (N)orth, (S)outh, (E)ast, or (W)est?") 
+    direction = input("Do you want to go (N)orth, (S)outh, (E)ast, or (W)est? ") 
 
     if direction=="n":
         print("You head north, into the forest.") 
