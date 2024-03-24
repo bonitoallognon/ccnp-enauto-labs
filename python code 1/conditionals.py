@@ -4,7 +4,7 @@ if direction=="n":
     print("You head north, into the forest.") 
 elif direction=="s":
     print("The coast blocks your path south.") 
-elif direction=="s":
+elif direction=="w":
     print("The western fields are comforming to walk trough.") 
 elif direction=="e":
     print("You were eateb by a grue.") 
